@@ -1,0 +1,16 @@
+/*
+html element
+    div, p...tag
+jsx element
+    html element which can perform javascript operation
+    to perform javascript operation inside tag use {}
+Tag
+    tag is condider as data in react
+    it means we can store tagin variable, return tag
+    we can store tag inside variable
+
+Component
+    it is the custom Tag
+    component is a function whose first lettet is Capitan and return only one tag
+*/
+
