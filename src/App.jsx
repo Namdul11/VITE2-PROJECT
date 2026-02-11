@@ -33,7 +33,7 @@ function App() {
   let name = "Namdul";
   let surname = "Lama";
   let address = "Kathmandu";
-  let a = <p>hello</p>
+  let a = <p>welcome</p>
   console.log("how you doin'");
   return (
   <div> 
